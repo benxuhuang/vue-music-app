@@ -1,0 +1,15 @@
+{
+  "home": {
+    "listen": "歡迎來享受美好音樂吧"
+  },
+  "manage": {
+    "my_songs": "我的歌曲"
+  },
+  "register": {
+    "TOS": "Terms of Service",
+    "accept": "I accept Music's {0}"
+  },
+  "song": {
+    "comment_count": "沒有評論 | 1 個評論 | {count} 個評論"
+  }
+}
